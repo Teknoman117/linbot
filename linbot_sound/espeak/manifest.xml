@@ -1,0 +1,18 @@
+<package>
+  <description brief="espeak">
+    A wrapper for the Espeak speech synthesis library
+  </description>
+  <author>Nathaniel Robert Lewis</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/espeak</url>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+
+  <platform os="ubuntu" version="10.04"/>
+  <platform os="ubuntu" version="10.10"/>
+  <rosdep name="libespeak"/>
+
+</package>
+
+

@@ -1,0 +1,9 @@
+<stack>
+  <description brief="linbot_sound">linbot_sound</description>
+  <author>Maintained by Nathaniel Robert Lewis</author>
+  <license>BSD,</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/linbot_sound</url>
+  <depend stack="ros" /> <!-- std_msgs, roscpp -->
+
+</stack>
